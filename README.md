@@ -1,2 +1,10 @@
-# The_Last_Of_Us_Carrosel
-The alst of us promo carrosel
+# The Last of Us - Carrossel
+
+Um carrossel de imagens da série The Last Of Us. 
+
+# Tecnologias usadas
+
+- HTML
+- CSS
+- JavaScript
+
